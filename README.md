@@ -1,9 +1,10 @@
-```bash
-# password-generator_script
-```
-This python script makes a strong password of any number of digits. Depends upon user need,  
 
+# password-generator_script
 ```bash
----Usage---
+This python script makes a strong password of any number of digits. Depends upon user need, user can generate password of any length (like: 12,16,20, etc...)  
 ```
+
+---Usage---
+```bash
 python3 pass.py
+```
